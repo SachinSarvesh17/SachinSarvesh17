@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sachin Sarvesh
 
 🎓 B.Tech in Information Technology  
-💻 Full Stack Developer | 🤖 AI/ML Explorer | ☁️ Cloud Enthusiast
+💻 Full Stack Developer |☁️ Cloud Enthusiast
 
 ---
 
@@ -10,6 +10,7 @@
 I'm an aspiring software developer with a passion for backend development, machine learning, and building tech for real-world impact. I enjoy working on full-stack web apps, cloud-based systems, and AI-driven solutions.
 
 - 🔭 Currently building: **Local Donation Exchange Platform** (Java + Spring Boot)
+- 💰 Developed: **Bank Management System** – a full-stack web app for customer, account & transaction management  
 - 🤖 Working on: **MediChat** – a chatbot for medical symptom analysis  
 - 🧪 Built: **Potato Disease Classifier** using Convolutional Neural Networks  
 - 🌱 Learning: React, AWS, Docker  
@@ -26,6 +27,10 @@ I'm an aspiring software developer with a passion for backend development, machi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **AI/ML Tools**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
@@ -37,6 +42,8 @@ I'm an aspiring software developer with a passion for backend development, machi
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000?style=flat&logo=intellij-idea)
+![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven)
 
 ---
 
@@ -50,6 +57,10 @@ I'm an aspiring software developer with a passion for backend development, machi
 ---
 
 ## 📌 Featured Projects
+
+### 🏦 [Full Stack Bank Management System](https://github.com/SachinSarvesh17/Bank-Management)
+A complete web-based bank management system built using **React, Node.js, Spring Boot, Java, and MySQL**.  
+Includes user authentication, account management, and secure transaction handling.
 
 ### 🩺 [MediChat](https://github.com/SachinSarvesh17/MediChat)
 A Python-based chatbot for preliminary medical symptom checking using AI/NLP techniques.
@@ -68,4 +79,3 @@ Deep learning project using CNN to classify potato leaf diseases with high accur
 ---
 
 > “Strive for progress, not perfection.”
-
