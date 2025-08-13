@@ -56,19 +56,19 @@ I'm an aspiring software developer with a passion for backend development, machi
 
 ---
 
-##📌 Featured Projects
-##🤝 Local Donation Exchange Platform
+📌 Featured Projects
+🤝 Local Donation Exchange Platform
 A Java 17 + Spring Boot + MySQL platform enabling people to donate and request items locally.
 Features JWT authentication, role-based access control, and a clean REST API for smooth integration with the frontend.
 
-##🏦 Full Stack Bank Management System
+🏦 Full Stack Bank Management System
 A complete web-based bank management system built using React, Node.js, Spring Boot, Java, and MySQL.
 Includes user authentication, account management, and secure transaction handling.
 
-##🩺 MediChat
+🩺 MediChat
 A Python-based chatbot for preliminary medical symptom checking using AI/NLP techniques.
 
-##🥔 Potato Leaf Disease Classification - CNN
+🥔 Potato Leaf Disease Classification - CNN
 Deep learning project using CNN to classify potato leaf diseases with high accuracy.
 
 
